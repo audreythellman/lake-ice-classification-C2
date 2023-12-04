@@ -1,0 +1,5 @@
+#data files not to read
+data/toa_training.csv
+.Rproj.user
+.RData
+.Rhistory
