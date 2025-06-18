@@ -1,6 +1,13 @@
 #data files not to read
-data/toa_training.csv
+
+.venv/
+data/
+figs/
+VIEW/
+
+#other files not to read: 
+
 .Rproj.user
 .RData
 .Rhistory
-figs/
+*.rds
